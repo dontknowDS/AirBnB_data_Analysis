@@ -12,7 +12,7 @@ In this project, I was interested in using Seattle Airbnb Open Data to better un
 2. How well can we predict prices and what are the big contributing factors
 3. The dependency between review comment's sentiment and season
 
-The full set of files related to this project can be seen at kaggle datasets download -d airbnb/seattle.
+
 
 ## File Descriptions 
 
