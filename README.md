@@ -19,8 +19,7 @@ In this project, I was interested in using Seattle Airbnb Open Data to better un
 There are 3 notebooks available here to showcase work related to the above questions. Each of the notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title.
 
 ## Results
-The main findings of the code can be found at the post available [here](	
-falke-patrick13.medium.com).
+The main findings of the code can be found at the post available [here](https://falke-patrick13.medium.com/).
 
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
